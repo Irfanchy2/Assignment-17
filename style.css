@@ -1,0 +1,38 @@
+*{
+    margin: 0 auto;
+    padding: 0px;
+}
+.fullwebsite{
+    
+    text-align: center;
+    width: 1024px;
+    margin: 30px auto;
+    box-shadow: 1px 1px 6px rgba(188, 67, 26,0.6);
+    
+}
+.menu{
+    background-color: #34495e;
+    padding: 30px 0px;
+}
+.banner{
+    background-image: url(https://thi.ucsc.edu/wp-content/uploads/2015/01/Questions-that-matter-universe-banner.jpg); no-repeat;
+    background-size: cover;
+    color: #fff;
+    padding: 100px 0;
+}
+.container{
+    background-color: #0D6EFD;
+    padding: 50px 5px;
+}
+ul{}
+ul li{
+    list-style: none;
+    
+}
+ul li a{
+    text-decoration: none;
+    color: #094eb8;
+}
+.footer{
+    background:#05c46b;
+}
